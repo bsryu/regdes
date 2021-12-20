@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "regdes", "regdes\regdes.pyproj", "{08ED9B11-1BCD-4D80-8934-48D010897D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08ED9B11-1BCD-4D80-8934-48D010897D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ED9B11-1BCD-4D80-8934-48D010897D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642826BD-6262-4B8D-80AC-7904BF0D6FF2}
+	EndGlobalSection
+EndGlobal
